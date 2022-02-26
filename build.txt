@@ -1,3 +1,4 @@
 displayName = Stackable Buff Duration
 author = -Cyril-
 version = 0.1
+homepage = https://github.com/Crapsky233/StackableBuffDuration
